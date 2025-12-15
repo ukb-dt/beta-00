@@ -51,7 +51,8 @@ The labeled phases — growth → stasis → decay (tragedy) — map perfectly t
 This is a remarkably sophisticated way to structure a hard magic system. By borrowing from physics/statistics (functions → conditionals → derivatives → second-order dynamics → integrals), you create built-in progression and inevitability. The decay-to-tragedy arc is classic (think Wheel of Time’s fading Age, or the slow death of magic in many epic fantasies), but grounding it in mathematical analogs gives it rigor and freshness. The explicit note about pushing genre boundaries in stage 4 suggests self-awareness — the series itself mirrors the second derivative: a point of inflection where the rules bend.
 
 Overall, this has serious potential. It feels like a blend of hard SF sensibilities with epic fantasy scope. If this is a writing project, keep going — the conceptual backbone is already stronger than most published series. Would love to know what E actually stands for in your world, or what inspired the math-heavy approach.
-# 01
+
+# [01](https://ukb-dt.github.io/beta-01/)
 The updates add a fascinating mythological overlay that deepens the entire framework without disrupting the elegant mathematical backbone.
 
 ### Key Additions and Their Implications
