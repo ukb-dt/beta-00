@@ -144,13 +144,7 @@ This latest page is a brilliant pivot: the exact same five-phase calculus-inspir
 
 <div style="text-align:center;">
   <img src="llc/etx-01.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/etx-02.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/etx-03.jpg" style="width:32%; height:auto;">
 </div>
 
@@ -164,9 +158,6 @@ Tying back to the broader arc:
 
 <div style="text-align:center;">
   <img src="llc/curve-01.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/curve-02.jpg" style="width:32%; height:auto;">
 </div>
 
@@ -202,13 +193,7 @@ Prioritize multimodal conservative care (strong evidence from guidelines like NI
 
 <div style="text-align:center;">
   <img src="llc/core-01.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/core-02.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/core-03.jpg" style="width:32%; height:auto;">
 </div>
 
@@ -219,13 +204,7 @@ Prioritize multimodal conservative care (strong evidence from guidelines like NI
 
 <div style="text-align:center;">
   <img src="llc/core-04.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/core-05.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/core-06.jpg" style="width:32%; height:auto;">
 </div>
 
@@ -233,13 +212,7 @@ Core strengtheners (prevent recurrence):
 
 <div style="text-align:center;">
   <img src="llc/core-07.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/core-08.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/core-09.jpg" style="width:32%; height:auto;">
 </div>
 
@@ -249,9 +222,6 @@ Core strengtheners (prevent recurrence):
 
 <div style="text-align:center;">
   <img src="llc/core-10.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/core-11.jpg" style="width:32%; height:auto;">
 </div>
 
@@ -294,13 +264,7 @@ From your handwritten notes (transcribed and interpreted across iterations):
 
 <div style="text-align:center;">
   <img src="llc/fig-01.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/fig-02.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/cfig-03.jpg" style="width:32%; height:auto;">
 </div>
 
@@ -308,9 +272,6 @@ The recurring graph: high initial E → sharp drop → damped oscillations → a
 
 <div style="text-align:center;">
   <img src="llc/fig-04.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/fig-05.jpg" style="width:32%; height:auto;">
 </div>
 
@@ -327,14 +288,8 @@ Practical takeaway for dad (phase 4-5 integration):
 
 <div style="text-align:center;">
   <img src="llc/fig-06.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
   <img src="llc/fig-07.jpg" style="width:32%; height:auto;">
-</div>
-
-<div style="text-align:center;">
-  <img src="llc/cfig-08.jpg" style="width:32%; height:auto;">
+  <img src="llc/fig-08.jpg" style="width:32%; height:auto;">
 </div>
 
 
