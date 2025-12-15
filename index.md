@@ -95,11 +95,8 @@ The horror/affirmation dialectic becomes the true engine: characters (or the wor
 
 
 <div style="text-align:center;">
-  <img src="llc/er-01.jpg" style="width:45%; height:auto;">
-</div>
-
-<div style="text-align:center;">
-  <img src="llc/er-02.jpg" style="width:45%; height:auto;">
+  <img src="llc/er-01.jpg" style="width:40%; height:auto;">
+  <img src="llc/er-02.jpg" style="width:40%; height:auto;">
 </div>
 
 
