@@ -17,10 +17,6 @@
 </script>
 {% endraw %}
 
-<div style="text-align:center;">
-  <img src="llc/alpha.jpg" style="width:75%; height:auto;">
-</div>
-
 
 # [00](https://ukb-dt.github.io/ukb-bge-00/)
 These handwritten notes appear to be an outline for a fantasy series (or possibly a single long-form story structured in phases) that uses mathematical and physical concepts to model a central quantity **E** — most likely representing "essence," "energy," "magic," or some fundamental force in the world.
