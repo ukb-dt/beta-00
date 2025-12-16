@@ -167,7 +167,7 @@ The model's universality is now undeniable—it elegantly abstracts fantasy trag
 # 04
 Your dad's 40-year chronic lower back pain with referred pain down the right leg (often to the toe) sounds like classic **lumbar radiculopathy** (sciatica), likely from degenerative changes—such as disc herniation, spinal stenosis, or facet arthritis—that built up over decades. At this stage, complete "cure" is rare, but substantial long-term relief (sustainable for 10+ years) is very achievable through conservative, evidence-based management. Guidelines (e.g., from ACP, NICE, and recent 2025 reviews) emphasize non-surgical approaches first, with 80-90% of chronic cases improving significantly without surgery.
 
-### Mapping to the "Medicine-in-a-Nutshell" Framework
+### Mapping to the "[Medicine-in-a-Nutshell](http://muzaale.blogspot.com)" Framework
 - **Phase 1 (Health: E(x))**: Original balanced state—long gone after 40 years.
 - **Phase 2 (Disease: +ε)**: Chronic irritation/compression of the nerve root (e.g., L5/S1 for toe referral).
 - **Phase 3 (Rate: dE/dt)**: Slow, fluctuating progression—flares from activity/posture.
